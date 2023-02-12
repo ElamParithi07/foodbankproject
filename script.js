@@ -1,0 +1,3 @@
+function Myfn(){
+    alert("Subscribed !");
+}
